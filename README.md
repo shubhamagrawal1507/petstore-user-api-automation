@@ -1,6 +1,6 @@
 # Pet Store User API Automation
 
-This project automates API operations (create, modify, read, delete) for managing users in a Pet Store application. It utilizes TestNG DataProvider for parameterization, with data sourced from Excel. RestAssured is used along with Java, TestNG, and Maven.
+This project automates API operations (create, modify, read, delete) for managing users in a Pet Store application. It utilizes TestNG DataProvider for parameterization, with data sourced from Excel. RestAssured is used along with Java, TestNG, Maven, Log4j for logging, and Extent Reports for detailed test reporting.
 
 ## Usage
 
@@ -17,6 +17,3 @@ To run this project, ensure you have Java and Maven installed on your system.
 3. Running the Tests:
    ```bash
    mvn test
-
-
-
